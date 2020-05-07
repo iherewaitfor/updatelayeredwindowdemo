@@ -1,0 +1,2 @@
+# updatelayeredwindowdemo
+demo of UpdateLayeredWindow
