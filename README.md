@@ -6,5 +6,5 @@ demo of UpdateLayeredWindow
 ## 如何运行
 使用你本地visual studio 创建一个空的win32项目，把updatelayeredwindowdemo.cpp添加到源文件，编译运行即可。项目没有其他依赖。
 
-##项目效果
+## 项目效果
 ![Image](./layerwindowdemo.png)
